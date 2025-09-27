@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./../styles/App.css";
-import Menu from "./Menu";
+import Menu from "./menu";
 
 const App = () => {
   // Initial menu data
